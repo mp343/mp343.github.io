@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.477d4ac1.css",
-    "main.js": "/static/js/main.16f34808.js",
+    "main.css": "/static/css/main.5a6f1bf1.css",
+    "main.js": "/static/js/main.c6171191.js",
     "static/media/notoSans.ttf": "/static/media/notoSans.9bc92a36ed81392f698b.ttf",
     "static/media/bannerElinia.png": "/static/media/bannerElinia.3af1448bb967690cb386.png",
     "static/media/bannerErev.png": "/static/media/bannerErev.97c10773eac72b07b513.png",
@@ -24,11 +24,11 @@
     "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/index.html",
-    "main.477d4ac1.css.map": "/static/css/main.477d4ac1.css.map",
-    "main.16f34808.js.map": "/static/js/main.16f34808.js.map"
+    "main.5a6f1bf1.css.map": "/static/css/main.5a6f1bf1.css.map",
+    "main.c6171191.js.map": "/static/js/main.c6171191.js.map"
   },
   "entrypoints": [
-    "static/css/main.477d4ac1.css",
-    "static/js/main.16f34808.js"
+    "static/css/main.5a6f1bf1.css",
+    "static/js/main.c6171191.js"
   ]
 }
