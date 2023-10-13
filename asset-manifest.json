@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.86e4765e.css",
-    "main.js": "/static/js/main.37ef709f.js",
+    "main.js": "/static/js/main.c7d4cc53.js",
     "static/media/notoSans.ttf": "/static/media/notoSans.9bc92a36ed81392f698b.ttf",
     "static/media/bannerElinia.png": "/static/media/bannerElinia.3af1448bb967690cb386.png",
     "static/media/Maplestory Light.ttf": "/static/media/Maplestory Light.9d9497585053c96c8082.ttf",
@@ -27,10 +27,10 @@
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/index.html",
     "main.86e4765e.css.map": "/static/css/main.86e4765e.css.map",
-    "main.37ef709f.js.map": "/static/js/main.37ef709f.js.map"
+    "main.c7d4cc53.js.map": "/static/js/main.c7d4cc53.js.map"
   },
   "entrypoints": [
     "static/css/main.86e4765e.css",
-    "static/js/main.37ef709f.js"
+    "static/js/main.c7d4cc53.js"
   ]
 }
